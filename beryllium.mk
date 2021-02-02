@@ -2,7 +2,7 @@ ifndef TARGET_KERNEL_USE
 TARGET_KERNEL_USE := 5.4
 endif
 
-KERNEL_MODS := $(wildcard device/xiaomi/beryllium/prebuilt-kernel/android-$(TARGET_KERNEL_USE)/*.ko)
+KERNEL_MODS := $(wildcard device/xiaomi/beryllium/prebuilt-kernel/android-$(TARGET_KERNEL_USE)/modules/*.ko)
 
 # Following modules go to vendor partition
 # msm.ko is too big (31M) for ramdisk
