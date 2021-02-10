@@ -5,7 +5,7 @@ Device configuration for Xiaomi Pocophone F1
 
 The Xiaomi Pocophone F1 (codenamed _"beryllium"_) is a high-end smartphone from Xiaomi.
 
-It was announced in August 2018. Release date was August 2018.
+It was announced in August 2018. Release date was 22 August 2018.
 
 ## Device specifications
 
@@ -20,6 +20,15 @@ Storage | 64/128/256 GB
 Battery | Non-removable Li-Po 4000 mAh battery
 Display | 1080 x 2246 pixels, 18:9 ratio, 6.18 inches, IPS LCD (~403 ppi density)
 Camera  | 12 MP + 5MP, dual pixel PDAF, dual-LED (dual tone) flash
+
+## Nethunter features
+
+Feature           | Available
+-----------------:|:-------------------------
+HID               | Yes (With kek)
+Common usb wifi   | Yes (With kek)
+Int mon           | Yes (By default)
+int inj           | No
 
 ## Device picture
 
